@@ -1,0 +1,33 @@
+site_name: OOSD I - Softwaregids
+
+theme:
+  name: readthedocs
+  language: nl
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.keys
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Welkom: index.md
+
+  - Installatie:
+      - 1. GitHub account aanmaken: installatie/github.md
+      - 2. Installatie van Git: installatie/git.md
+      - 3. 7-zip: installatie/7-zip.md
+      - 4. Java JDK: installatie/java.md
+      - 5. IntelliJ IDE: installatie/intellij.md
+      - 6. Visual paradigm: installatie/visualparadigm.md
+
+  - Configuratie:
+      - IntelliJ:
+          - 1. Uitschakelen 'Inline completion' [VERPLICHT]: configuratie/intellij/intellij.md
+          - 2. Appearance and behavior: configuratie/intellij/projecten.md
+          - 3. Actions on Save: configuratie/intellij/formatter.md
+      - Visual Paradigm:
+          - 1. Opmaak user interface: configuratie/vp/ui.md
