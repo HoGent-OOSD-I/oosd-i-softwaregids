@@ -45,7 +45,7 @@ Tijdens je opleiding verzamel je heel wat documenten op je laptop. Zorg ervoor d
 
 > 💡 **Tip:** Gebruik kleine letters, geen spaties (gebruik koppelteken `-`) en nummer je mappen (`01-`, `h01-`). Zo blijven je mappen automatisch op de juiste volgorde staan.
       
-```
+<pre class="plaintext" style="color: inherit; background-color: transparent;"><code class="plaintext" style="color: inherit;">
 📁 documenten/
 └── 📁 hogent/
     └── 📁 ac-jaar-2627/
@@ -84,7 +84,8 @@ Tijdens je opleiding verzamel je heel wat documenten op je laptop. Zorg ervoor d
         ├── 📁 05-cybersecurity/
         │   └── ...
         └── ...
-```        
+</code></pre>
+     
 
 ### ⌛ Geschatte tijd
 - +/- 30 minuten
