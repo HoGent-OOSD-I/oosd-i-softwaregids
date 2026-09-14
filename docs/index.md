@@ -38,7 +38,7 @@ Voor je met de installatie begint, controleer je best welk besturingssysteem en 
 
 ### 📌 Belangrijke richtlijnen
 - **IntelliJ IDEA** is de ontwikkelomgeving die je tijdens je opleiding heel intensief zult gebruiken. Een correcte configuratie zorgt voor een comfortabele werkomgeving. Sommige configuratiestappen zijn **verplicht**. Aan het begin van het examen moet je aantonen dat jouw IDE conform deze verplichte richtlijnen is ingesteld.
-- Configureer ook **Visual Paradigm** volgens deze gids.Dit vereenvoudigt het volgen van de lessen omdat je configuratie dan gelijk loopt met die van je lector.
+- Configureer ook **Visual Paradigm** volgens deze gids. Dit vereenvoudigt het volgen van de lessen omdat je configuratie dan gelijk loopt met die van je lector.
 
 ### 💻 Jouw mappenstructuur
 Tijdens je opleiding verzamel je heel wat documenten op je laptop. Zorg ervoor dat je een duidelijke mappenstructuur aanbrengt zodat je steeds gemakkelijk je weg naar al je leermaterialen vindt. Hieronder vind je een mogelijke, niet-verplichte mappenstructuur die je kunt hanteren. In dit voorbeeld zijn niet alle vakken opgenomen en is de structuur opengeklapt voor hoofdstuk 4 van het vak OOSD I:

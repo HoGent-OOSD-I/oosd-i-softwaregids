@@ -17,7 +17,7 @@ Wil je bij het openen of aanmaken van een project steeds starten vanuit de map `
 </div>
 
 #### Projecten automatisch heropenen
-In hetwelfde venster kun je bepalen of IntelliJ de projecten die geopend waren bij het afsluiten automatisch opnieuw opent bij het opstarten.
+In hetzelfde venster kun je bepalen of IntelliJ de projecten die geopend waren bij het afsluiten automatisch opnieuw opent bij het opstarten.
 
 Wij raden aan om de volgende optie in te schakelen:
 

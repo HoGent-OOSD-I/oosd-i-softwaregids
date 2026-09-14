@@ -1,6 +1,6 @@
 ## Installatie van Visual Paradigm
 
-⚠️ **Belangrijk:** Tijdens de analyse en ontwerp fase van software ontwikkeling wordt gebruik gemaakt van verschillende **UML diagrammen**. Visual Paradigm is software om, onder andere, UML diagrammen te tekenen. Visual Paradigm is commerciële software maar via HOGENT krijg je een **activatie code** die toelaat dat je de standaard versie van Visual Paradigm gratis kan gebruiken.
+⚠️ **Belangrijk:** Tijdens de analyse en ontwerp fase van software ontwikkeling wordt gebruik gemaakt van verschillende **UML diagrammen**. Visual Paradigm is software om, onder andere, UML diagrammen te tekenen. Visual Paradigm is commerciële software maar via HOGENT krijg je een **activatiecode** die toelaat dat je de standaard versie van Visual Paradigm gratis kan gebruiken.
 
 ### Visual Paradigm downloaden en installeren
 !!! note "Stappenplan"
@@ -22,5 +22,5 @@
         - Name: **[jouw naam]**
         - Email: **[jouw HOGENT-e-mailadres]**
     1. Klik ++'Activate'++
-    1. Bekijk je mail en kopieer en plak de verificatiecode die je van Visual Paradigm kreeg in het verificatie venster.   
+    1. Bekijk je mail en kopieer en plak de verificatiecode die je van Visual Paradigm kreeg in het verificatievenster.   
 
