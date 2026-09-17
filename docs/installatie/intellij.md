@@ -19,7 +19,7 @@ Ga naar de GitHub-pagina voor [Education Benefits](https://github.com/settings/e
 
 Geef aan dat je student bent, kies onze school **University College Ghent**, en vul je HOGENT-e-mailadres in.
 
-Let op: deel ook je locatie zodat GitHub kan controleren of je je in de buurt van de school bent. Doe dit niet via een VPN of terwijl je op vakantie bent.
+Let op: deel ook je locatie zodat GitHub kan controleren of je in de buurt van de school bent. Doe dit niet via een VPN of terwijl je op vakantie bent.
 
 ![](../images/intellij/github-2.png)
 
