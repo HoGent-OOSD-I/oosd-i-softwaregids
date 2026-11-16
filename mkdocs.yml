@@ -27,7 +27,8 @@ nav:
   - Configuratie:
       - IntelliJ:
           - 1. Uitschakelen 'Inline completion' [VERPLICHT]: configuratie/intellij/intellij.md
-          - 2. Appearance and behavior: configuratie/intellij/projecten.md
-          - 3. Actions on Save: configuratie/intellij/formatter.md
+          - 2. Uitschakelen 'Air' [VERPLICHT]: configuratie/intellij/air.md
+          - 3. Appearance and behavior: configuratie/intellij/projecten.md
+          - 4. Actions on Save: configuratie/intellij/formatter.md
       - Visual Paradigm:
           - 1. Opmaak user interface: configuratie/vp/ui.md
