@@ -17,5 +17,5 @@ Tijdens het maken van oefeningen en op het examen is het gebruik van AI-onderste
 
 > **💡Tip**: in IntelliJ kan je steeds **dubbel klikken op ++"Shift"++** om een _'Search everywhere'_ zoekactie te starten. Dubbel ++"Shift"++ en in de zoekbalk _'plugins'_ intikken brengt je direct naar de gewenste sectie...
 
-!!!warning "Belangrijk tijdens evaluaties en examens"
-    Tijdens een toets of examen worden je instellingen gecontroleerd door een toezichter. Ingeschakelde AI-plugins, actieve inline completion of externe AI-tools tijdens een evaluatie worden beschouwd als **onregelmatigheid (examenfraude)** volgens het onderwijs- en examenreglement (OER).
+!!!warning "Belangrijk tijdens examens"
+    Tijdens een examen worden je instellingen gecontroleerd door een toezichter. Ingeschakelde AI-plugins, actieve inline completion of externe AI-tools tijdens een evaluatie worden beschouwd als **onregelmatigheid (examenfraude)** volgens het onderwijs- en examenreglement (OER).
