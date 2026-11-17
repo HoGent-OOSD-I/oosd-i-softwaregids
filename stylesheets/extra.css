@@ -1,0 +1,10 @@
+/* Verander de achtergrond van het hoofdgedeelte naar wit */
+.wy-nav-content-wrap,
+.wy-nav-content {
+    background: #ffffff !important;
+}
+
+/* Zorg dat de specifieke content-container ook wit is */
+.rst-content {
+    background-color: #ffffff !important;
+}
